@@ -3,65 +3,19 @@
   <p>
     B.S. Computer Science & B.A. Data Science (Statistics Track) @ Rutgers University - New Brunswick | Aspiring Software Innovator
   </p>
-  <p>
-    <em>I am passionate about crafting elegant solutions in code, with a focus on web technologies and AI. I love building scalable applications, working with data, and exploring machine learning.</em>
-  </p>
+  <p><em>I am passionate about crafting elegant solutions in code, with a focus on web technologies and AI. I love building scalable applications, working with data, and exploring machine learning.</em></p>
 
-<div align="center" style="margin-top: 15px; margin-bottom: 20px;">
-  <a href="https://athardhik.netlify.app/" target="_blank" style="
-    display: inline-block;
-    padding: 10px 18px; /* Adjusted padding */
-    margin: 5px 8px;   /* Adjusted margin */
-    background-color: #007bff; 
-    color: white;
-    text-decoration: none;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; /* GitHub-like font stack */
-    font-size: 14px;
-    font-weight: 600; /* GitHub uses 600 for button-like links */
-    line-height: 20px; /* Ensure text is centered vertically */
-    border-radius: 6px; /* GitHub's standard border-radius */
-    border: 1px solid rgba(27,31,35,0.15); /* Subtle border like GitHub buttons */
-    cursor: pointer;
-    white-space: nowrap; /* Prevent text wrapping */
-  ">
-    My Portfolio
-  </a>
-  <a href="https://www.linkedin.com/in/atchakalahardhik/" target="_blank" style="
-    display: inline-block;
-    padding: 10px 18px;
-    margin: 5px 8px;
-    background-color: #0077B5; 
-    color: white;
-    text-decoration: none;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-    font-size: 14px;
-    font-weight: 600;
-    line-height: 20px;
-    border-radius: 6px;
-    border: 1px solid rgba(27,31,35,0.15);
-    cursor: pointer;
-    white-space: nowrap;
-  ">
-    LinkedIn
-  </a>
-  <a href="mailto:ha636@scarletmail.rutgers.edu" style="
-    display: inline-block;
-    padding: 10px 18px;
-    margin: 5px 8px;
-    background-color: #D14836; 
-    color: white;
-    text-decoration: none;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-    font-size: 14px;
-    font-weight: 600;
-    line-height: 20px;
-    border-radius: 6px;
-    border: 1px solid rgba(27,31,35,0.15);
-    cursor: pointer;
-    white-space: nowrap;
-  ">
-    Email Me
-  </a>
+  <p>
+    <a href="https://athardhik.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/atchakalahardhik/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:ha636@scarletmail.rutgers.edu">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
 
 ---

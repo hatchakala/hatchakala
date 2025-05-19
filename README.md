@@ -1,17 +1,67 @@
 <div align="center">
   <h1>Hi, I'm Hardhik Atchakala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   <p>
-    B.S. Computer Science @ Rutgers University (May 2027) [cite: 2] | Aspiring Software Innovator
+    B.S. Computer Science & B.A. Data Science (Statistics Track) @ Rutgers University - New Brunswick | Aspiring Software Innovator
   </p>
   <p>
-    <em>Passionate about crafting elegant solutions in code, with a focus on web technologies and AI.</em>
+    <em>I am passionate about crafting elegant solutions in code, with a focus on web technologies and AI. I love building scalable applications, working with data, and exploring machine learning.</em>
   </p>
 
-  <p>
-    <a href="https://athardhik.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-blue?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"></a>
-    <a href="https://www.linkedin.com/in/atchakalahardhik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:ha636@scarletmail.rutgers.edu"><img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
+<div align="center" style="margin-top: 15px; margin-bottom: 20px;">
+  <a href="https://athardhik.netlify.app/" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px 10px;
+    background-color: #007bff; /* Blue */
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  " onmouseover="this.style.backgroundColor='#0056b3'; this.style.transform='translateY(-1px)';" onmouseout="this.style.backgroundColor='#007bff'; this.style.transform='translateY(0px)';">
+    My Portfolio
+  </a>
+  <a href="https://www.linkedin.com/in/atchakalahardhik/" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px 10px;
+    background-color: #0077B5; /* LinkedIn Blue */
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  " onmouseover="this.style.backgroundColor='#005582'; this.style.transform='translateY(-1px)';" onmouseout="this.style.backgroundColor='#0077B5'; this.style.transform='translateY(0px)';">
+    LinkedIn
+  </a>
+  <a href="mailto:ha636@scarletmail.rutgers.edu" style="
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px 10px;
+    background-color: #D14836; /* Gmail Red */
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  " onmouseover="this.style.backgroundColor='#B03020'; this.style.transform='translateY(-1px)';" onmouseout="this.style.backgroundColor='#D14836'; this.style.transform='translateY(0px)';">
+    Email Me
+  </a>
 </div>
 
 ---

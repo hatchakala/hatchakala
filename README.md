@@ -1,18 +1,17 @@
 <div align="center">
   <h1>Hi, I'm Hardhik Atchakala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   <p>
-    🎓 B.S. Computer Science & B.A. Data Science (Statistics Track) @ Rutgers University - New Brunswick  
-    💡 Aspiring Software Innovator
+    B.S. Computer Science & B.A. Data Science (Statistics Track) @ Rutgers University - New Brunswick | Aspiring Software Innovator
   </p>
-  <p><em>I’m passionate about crafting elegant solutions in code — from scalable web apps to smart machine learning models. I love exploring the intersections of data, technology, and creativity.</em></p>
+  <p><em>I am passionate about crafting elegant solutions in code, with a focus on web technologies and AI. I love building scalable applications, working with data, and exploring machine learning.</em></p>
 
   <br/>
 
   <p>
-    <a href="https://athardhik.netlify.app/" target="_blank">
+    <a href="https://athardhik.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://www.linkedin.com/in/atchakalahardhik/" target="_blank">
+    <a href="https://www.linkedin.com/in/atchakalahardhik/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:ha636@scarletmail.rutgers.edu">
@@ -21,7 +20,6 @@
   </p>
 </div>
 
----
 
 ## My Skills
 

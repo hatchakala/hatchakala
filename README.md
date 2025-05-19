@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
--- 
+
 
 <div align="center">
   <p>✨ Open to collaborations, projects, and exciting opportunities! Let's connect. ✨</p>

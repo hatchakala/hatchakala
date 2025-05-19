@@ -3,7 +3,7 @@
   <h1 align="center">Welcome to My GitHub Profile!</h1>
 </div>
 
-Hi there! I'm **[Your Name]**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
+Hi there! I'm **Hardhik**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
 ## 🛠️ Tech Stack
 

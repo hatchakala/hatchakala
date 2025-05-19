@@ -20,13 +20,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&card_width=450" alt="Hardhik's GitHub Stats" />
-  <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dracula&hide_border=true&card_width=450" alt="Top Languages" />
-</div>
-
----
-
 ## 💻 My Core Toolkit
 
 <p align="center">

@@ -10,56 +10,56 @@
 <div align="center" style="margin-top: 15px; margin-bottom: 20px;">
   <a href="https://athardhik.netlify.app/" target="_blank" style="
     display: inline-block;
-    padding: 10px 20px;
-    margin: 5px 10px;
-    background-color: #007bff; /* Blue */
+    padding: 10px 18px; /* Adjusted padding */
+    margin: 5px 8px;   /* Adjusted margin */
+    background-color: #007bff; 
     color: white;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; /* GitHub-like font stack */
     font-size: 14px;
-    font-weight: bold;
-    border-radius: 5px;
-    border: none;
+    font-weight: 600; /* GitHub uses 600 for button-like links */
+    line-height: 20px; /* Ensure text is centered vertically */
+    border-radius: 6px; /* GitHub's standard border-radius */
+    border: 1px solid rgba(27,31,35,0.15); /* Subtle border like GitHub buttons */
     cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    transition: background-color 0.3s ease, transform 0.2s ease;
-  " onmouseover="this.style.backgroundColor='#0056b3'; this.style.transform='translateY(-1px)';" onmouseout="this.style.backgroundColor='#007bff'; this.style.transform='translateY(0px)';">
+    white-space: nowrap; /* Prevent text wrapping */
+  ">
     My Portfolio
   </a>
   <a href="https://www.linkedin.com/in/atchakalahardhik/" target="_blank" style="
     display: inline-block;
-    padding: 10px 20px;
-    margin: 5px 10px;
-    background-color: #0077B5; /* LinkedIn Blue */
+    padding: 10px 18px;
+    margin: 5px 8px;
+    background-color: #0077B5; 
     color: white;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
     font-size: 14px;
-    font-weight: bold;
-    border-radius: 5px;
-    border: none;
+    font-weight: 600;
+    line-height: 20px;
+    border-radius: 6px;
+    border: 1px solid rgba(27,31,35,0.15);
     cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    transition: background-color 0.3s ease, transform 0.2s ease;
-  " onmouseover="this.style.backgroundColor='#005582'; this.style.transform='translateY(-1px)';" onmouseout="this.style.backgroundColor='#0077B5'; this.style.transform='translateY(0px)';">
+    white-space: nowrap;
+  ">
     LinkedIn
   </a>
   <a href="mailto:ha636@scarletmail.rutgers.edu" style="
     display: inline-block;
-    padding: 10px 20px;
-    margin: 5px 10px;
-    background-color: #D14836; /* Gmail Red */
+    padding: 10px 18px;
+    margin: 5px 8px;
+    background-color: #D14836; 
     color: white;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
     font-size: 14px;
-    font-weight: bold;
-    border-radius: 5px;
-    border: none;
+    font-weight: 600;
+    line-height: 20px;
+    border-radius: 6px;
+    border: 1px solid rgba(27,31,35,0.15);
     cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    transition: background-color 0.3s ease, transform 0.2s ease;
-  " onmouseover="this.style.backgroundColor='#B03020'; this.style.transform='translateY(-1px)';" onmouseout="this.style.backgroundColor='#D14836'; this.style.transform='translateY(0px)';">
+    white-space: nowrap;
+  ">
     Email Me
   </a>
 </div>

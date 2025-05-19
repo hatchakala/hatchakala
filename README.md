@@ -45,5 +45,5 @@
 
 
 <div align="center">
-  <p>✨ Open to collaborations, projects, and exciting opportunities! Let's connect. ✨</p>
+  <p> Open to collaborations, projects, and exciting opportunities! Let's connect. </p>
 </div>

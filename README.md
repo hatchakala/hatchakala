@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Hardhik Atchakala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   <p>
-    B.S. Computer Science & B.A. Data Science (Statistics Track) @ Rutgers University - New Brunswick Honors College | Aspiring Software Innovator
+    B.S. Computer Science & B.A. Data Science (Statistics Track) @ Rutgers University - New Brunswick Honors College
   </p>
   <p><em>I am passionate about crafting elegant solutions in code, with a focus on web technologies and AI. I love building scalable applications, working with data, and exploring machine learning.</em></p>
 

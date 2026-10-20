@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://hardhik.dev/">
-    <img src="./header.svg" width="100%" alt="Hey, I'm Hardhik. Welcome to my corner of GitHub." />
+    <img src="./header.svg" width="100%" alt="Hey, I'm Hardhik 👋" />
   </a>
 
   <p>
@@ -60,7 +60,7 @@
     B.S. Computer Science &amp; B.A. Data Science (Statistics Track)
   </p>
 
-  <p>I build useful things, follow my curiosity, and learn along the way. Glad you're here.</p>
+  <p>Welcome to my GitHub page! I build useful things, follow my curiosity, and learn along the way.</p>
 
   <p>
     <a href="https://hardhik.dev/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visit my portfolio" /></a>

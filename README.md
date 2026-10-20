@@ -52,96 +52,96 @@
 
 <div align="center">
   <a href="https://hardhik.dev/">
-    <img src="./header.svg" width="100%" alt="Hey, I'm Hardhik. Welcome to my corner of GitHub. Software, systems, and a little curiosity." />
+    <img src="./assets/header.svg" width="100%" alt="Hey, I'm Hardhik. Welcome to my corner of GitHub." />
   </a>
-
-  <br/>
 
   <p>
     <b>Rutgers University–New Brunswick Honors College</b><br/>
     B.S. Computer Science &amp; B.A. Data Science (Statistics Track)
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1600&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=40&amp;lines=From+%22what+if%22+to+%22it+works.%22;Full-stack+builder.+Curious+about+AI.;Thanks+for+stopping+by.+Take+a+look+around!" width="600" alt="From what if to it works. Full-stack builder. Curious about AI. Thanks for stopping by!" />
+  <p>I build useful things, follow my curiosity, and learn along the way. Glad you're here.</p>
 
   <p>
     <a href="https://hardhik.dev/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visit my portfolio" /></a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/atchakalahardhik/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+    &nbsp;
     <a href="mailto:ha636@scarletmail.rutgers.edu"><img src="https://img.shields.io/badge/Say_hello-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=22D3EE" alt="Send me an email" /></a>
   </p>
 </div>
 
+---
+
 ### A little about me
 
-I like turning “what if?” into something people can use. You'll find me building across the stack, experimenting with AI, and figuring out how the pieces fit together.
+I like turning “what if?” into something people can use. I build across the stack and enjoy figuring out how interfaces, backend systems, and data fit together.
 
-**Curious about:** distributed systems, computer vision, AI agents, and machine learning.
+Lately, my curiosity has been taking me toward **distributed systems, computer vision, AI agents, and machine learning**.
 
-### A few things I've worked on
+### Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Grove</h3>
-      <p>Connecting food pantry and Census data to uncover gaps in food assistance.</p>
+      <p><strong>🌐 Grove</strong></p>
+      <p>Connecting pantry and Census data to uncover gaps in food assistance.</p>
       <p><sub>🏆 2nd place · Morgan Stanley Code to Give</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Task-Gated Unlock</h3>
-      <p>A macOS focus app that ties access to task completion.</p>
+      <p><strong>⚡ Task-Gated Unlock</strong></p>
+      <p>Connecting task completion to app access for more intentional focus on macOS.</p>
       <p><sub>Electron · React · FastAPI</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ Test Case Aggregation</h3>
+      <p><strong>🛠️ Test Case Aggregation</strong></p>
       <p>Turning messy SharePoint exports into organized test case data at T-Mobile.</p>
       <p><sub>Next.js · Python · PostgreSQL</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 NLP Research</h3>
-      <p>Do sign-related language patterns transfer between horoscope publishers?</p>
+      <p><strong>🧠 NLP Research</strong></p>
+      <p>Testing whether sign-related language patterns transfer between horoscope publishers.</p>
       <p><sub>Machine learning · Rutgers Honors Project</sub></p>
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://hardhik.dev/"><b>More of my work ↗</b></a></p>
-
-### Tools I build with
-
-<p>
-  <b>Languages</b><br/><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=python,java,js,html,css&amp;theme=dark" alt="Python, Java, JavaScript, HTML, CSS" />
-</p>
-<p>
-  <b>Frameworks</b><br/><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi&amp;theme=dark" alt="React, Next.js, Node.js, Express, Flask, FastAPI" />
-</p>
-<p>
-  <b>Data &amp; infrastructure</b><br/><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,docker,aws&amp;theme=dark" alt="PostgreSQL, MySQL, MongoDB, Git, Docker, AWS" />
-</p>
-
-### One contribution at a time
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hatchakala/hatchakala/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hatchakala/hatchakala/output/github-snake.svg" />
-  <img width="100%" alt="An animated snake tracing my GitHub contribution calendar." src="https://raw.githubusercontent.com/hatchakala/hatchakala/output/github-snake.svg" />
-</picture>
+<a href="https://hardhik.dev/">Explore more of my work ↗</a>
 
 ---
 
 <div align="center">
-  <p><b>Building something interesting? I'd love to hear about it.</b><br/>
-  Open to collaborations, new ideas, and a good conversation.</p>
-  <p><a href="mailto:ha636@scarletmail.rutgers.edu">Say hello ↗</a></p>
+  <h3>Tools I build with</h3>
+
+  <p>
+    <sub><b>LANGUAGES</b></sub><br/>
+    <img height="36" src="https://skillicons.dev/icons?i=python,java,js,html,css&amp;theme=dark" alt="Python, Java, JavaScript, HTML, CSS" />
+  </p>
+
+  <p>
+    <sub><b>FRAMEWORKS</b></sub><br/>
+    <img height="36" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi&amp;theme=dark" alt="React, Next.js, Node.js, Express, Flask, FastAPI" />
+  </p>
+
+  <p>
+    <sub><b>DATA &amp; INFRASTRUCTURE</b></sub><br/>
+    <img height="36" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,docker,aws&amp;theme=dark" alt="PostgreSQL, MySQL, MongoDB, Git, Docker, AWS" />
+  </p>
+
+  <h3>One contribution at a time</h3>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hatchakala/hatchakala/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hatchakala/hatchakala/output/github-snake.svg" />
+    <img width="100%" alt="An animated snake tracing my GitHub contribution calendar." src="https://raw.githubusercontent.com/hatchakala/hatchakala/output/github-snake.svg" />
+  </picture>
+
+  <p>
+    <b>Have an idea or a project in mind?</b><br/>
+    I'd love to hear about it. <a href="mailto:ha636@scarletmail.rutgers.edu">Let's talk ↗</a>
+  </p>
 </div>
-
-<!-- Header: assets/header.svg. Typing: DenverCoder1/readme-typing-svg.
-     Icons: skillicons.dev. Badges: Shields.io. Snake: Platane/snk.
-     Snake SVGs are refreshed by .github/workflows/snake.yml on the output branch. -->
-
 
 

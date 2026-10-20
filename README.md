@@ -8,7 +8,7 @@
   <br/>
 
   <p>
-    <a href="https://athardhik.netlify.app/">
+    <a href="https://hardhik.dev/">
       <img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/atchakalahardhik/">

@@ -45,7 +45,7 @@
 
 
 <div align="center">
-  <p> Open to collaborations, projects, and exciting opportunities! Let's connect. </p>
+  <p> </p>
 </div> -->
 
 <!-- Paste this file into the README.md of your public GitHub profile repository. -->
@@ -60,7 +60,7 @@
     B.S. Computer Science &amp; B.A. Data Science (Statistics Track)
   </p>
 
-  <p>Welcome to my GitHub page! I build useful things, follow my curiosity, and learn along the way.</p>
+  <p>Welcome to my GitHub page! I am passionate about crafting elegant code solutions, with a focus on Computer Vision and AI. I love building scalable applications, working with data, and exploring machine learning.</p>
 
   <p>
     <a href="https://hardhik.dev/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visit my portfolio" /></a>
@@ -139,8 +139,8 @@ Lately, my curiosity has been taking me toward **distributed systems, computer v
   </picture>
 
   <p>
-    <b>Have an idea or a project in mind?</b><br/>
-    I'd love to hear about it. <a href="mailto:ha636@scarletmail.rutgers.edu">Let's talk ↗</a>
+    <b>Open to collaborations, projects, and exciting opportunities! Let's connect.</b><br/>
+     <a href="mailto:ha636@scarletmail.rutgers.edu"></a>
   </p>
 </div>
 

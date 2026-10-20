@@ -59,8 +59,8 @@
   </a>
 
   <p>
-    <b>Rutgers University · New Brunswick · Honors College</b><br/>
-    B.S. Computer Science &amp; B.A. Data Science · Statistics Track
+    <b>Rutgers University - New Brunswick Honors College</b><br/>
+    B.S. Computer Science &amp; B.A. Data Science (Statistics Track)
   </p>
 
   <p>
@@ -88,6 +88,8 @@ I'm studying computer science and data science at Rutgers, with interests in ful
 hardhik:
   interests:
     - Full-stack applications
+    - Distributed Systems
+    - Computer Vision
     - AI agents and developer tools
     - Machine learning and data systems
   approach: "Build it. Test it. Make it better."
@@ -126,13 +128,13 @@ hardhik:
       <p><b>Testing what models actually learn.</b></p>
       <p>Exploring whether sign-related language patterns learned from one horoscope publisher transfer to another publisher.</p>
       <p><code>NLP</code> <code>Classification</code> <code>Model Evaluation</code></p>
-      <p>Machine learning · Rutgers honors project</p>
+      <p>Machine learning · Rutgers Honors Project</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://athardhik.netlify.app/"><b>Explore my portfolio ↗</b></a>
+  <a href="https://hardhik.dev/"><b>Explore my portfolio ↗</b></a>
 </p>
 
 ## Tech Stack

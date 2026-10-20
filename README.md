@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://hardhik.dev/">
-    <img src="./assets/header.svg" width="100%" alt="Hey, I'm Hardhik. Welcome to my corner of GitHub. Software, systems, and a little curiosity." />
+    <img src="./header.svg" width="100%" alt="Hey, I'm Hardhik. Welcome to my corner of GitHub. Software, systems, and a little curiosity." />
   </a>
 
   <br/>

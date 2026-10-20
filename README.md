@@ -58,7 +58,7 @@
   <br/>
 
   <p>
-    <b>Hardhik Atchakala · Rutgers University–New Brunswick Honors College</b><br/>
+    <b>Rutgers University–New Brunswick Honors College</b><br/>
     B.S. Computer Science &amp; B.A. Data Science (Statistics Track)
   </p>
 

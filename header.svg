@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Hey, I'm Hardhik. Welcome to my corner of GitHub.</title>
+  <desc id="desc">A midnight blue card with cyan and violet orbital lines. Software, systems, and a little curiosity.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#17152F"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#818CF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".22"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#A5B4FC" opacity=".14"/></pattern>
+  </defs>
+  <style>
+    .orbit {transform-origin:820px 140px; animation:turn 30s linear infinite}
+    .spark {animation:glimmer 5s ease-in-out infinite}
+    @keyframes turn {to {transform:rotate(360deg)}}
+    @keyframes glimmer {50% {opacity:.35}}
+    @media (prefers-reduced-motion:reduce) {.orbit,.spark {animation:none}}
+  </style>
+  <rect x="1" y="1" width="998" height="278" rx="22" fill="url(#bg)" stroke="#30304A"/>
+  <rect x="2" y="2" width="996" height="276" rx="21" fill="url(#dots)"/>
+  <ellipse cx="820" cy="140" rx="250" ry="205" fill="url(#glow)"/>
+  <path d="M38 2H962" stroke="url(#accent)" stroke-width="3" opacity=".8"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="48" y="65" fill="#67E8F9" font-size="13" letter-spacing="3">WELCOME TO MY CORNER OF GITHUB</text>
+    <text x="45" y="137" fill="#F8FAFC" font-size="54" font-weight="700">Hey, I'm Hardhik.</text>
+    <text x="48" y="179" fill="#C4C8DA" font-size="19">Software, systems, and a little curiosity.</text>
+    <text x="48" y="235" fill="#A5B4FC" font-size="12" letter-spacing="2">BUILD · EXPERIMENT · KEEP LEARNING</text>
+  </g>
+  <g fill="none" stroke-width="1">
+    <circle cx="820" cy="140" r="90" stroke="#818CF8" opacity=".3"/>
+    <ellipse cx="820" cy="140" rx="126" ry="46" transform="rotate(-33 820 140)" stroke="#22D3EE" opacity=".5"/>
+    <ellipse cx="820" cy="140" rx="126" ry="46" transform="rotate(33 820 140)" stroke="#A78BFA" opacity=".5"/>
+    <circle cx="820" cy="140" r="59" stroke="#A78BFA" opacity=".15"/>
+  </g>
+  <g class="orbit">
+    <circle cx="820" cy="50" r="4" fill="#67E8F9"/>
+    <circle cx="820" cy="230" r="3" fill="#C4B5FD"/>
+  </g>
+  <text x="820" y="156" text-anchor="middle" font-family="monospace" font-size="48" fill="url(#accent)">&lt;/&gt;</text>
+  <g fill="#67E8F9" class="spark"><circle cx="693" cy="62" r="2"/><circle cx="952" cy="218" r="2"/><circle cx="936" cy="58" r="1.5"/></g>
+</svg>
+
